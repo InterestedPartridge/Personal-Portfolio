@@ -323,8 +323,8 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .skills .skills-content .left img{
-    height: 400px;
-    width: 550px;
+    height: 30vmax;
+    width: 35vmax;
     object-fit: cover;
     border-radius: 6px;
 }
